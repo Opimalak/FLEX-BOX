@@ -10,21 +10,7 @@
     padding: 10px;
 }
 
-.quadrado1 {
-    border: solid red;
-    background-color: gray;
-    width: 300px;
-    height: 100px;
-}
-
-.quadrado2 {
-    border: solid red;
-    background-color: gray;
-    width: 300px;
-    height: 100px;
-}
-
-.quadrado3 {
+.quadrado {
     border: solid red;
     background-color: gray;
     width: 300px;
