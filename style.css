@@ -33,5 +33,5 @@ background-size: cover;
 .quadrado:hover{
 color: rgb(238, 238, 238);
 transition: 400ms;
-opacity: 0.7;
+opacity: 0.55;
 }
