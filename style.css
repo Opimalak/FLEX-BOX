@@ -15,5 +15,5 @@
     background-color: gray;
     width: 300px;
     height: 600px;
-    flex-direction: column;
+    flex-wrap: wrap;
 }
