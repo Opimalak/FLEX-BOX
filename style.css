@@ -1,12 +1,16 @@
-.flex{
+.flex {
     background-color: blueviolet;
+    display: flex;
 }
-.quadrado1{
 
+.quadrado1 {
+    background-color: gray;
 }
-.quadrado2{
-    
+
+.quadrado2 {
+    background-color: gray;
 }
-.quadrado3{
-    
+
+.quadrado3 {
+    background-color: gray;
 }
