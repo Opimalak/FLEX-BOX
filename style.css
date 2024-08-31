@@ -24,6 +24,6 @@ height: 500px;
 .texto{
     font-size: 20px;
 }
-.quadrado a:hover{
-color: black;
+.quadrado:hover{
+color: rgb(71, 181, 255);
 }
