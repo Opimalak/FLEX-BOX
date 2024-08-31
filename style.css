@@ -26,5 +26,5 @@ height: 500px;
 }
 .quadrado:hover{
 color: rgb(71, 181, 255);
--webkit-filter: blur(4px);
+box-shadow: 0 0 200px rgba(0,0,0,0.9) inset;
 }
