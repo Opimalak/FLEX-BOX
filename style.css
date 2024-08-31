@@ -18,7 +18,7 @@
     flex-wrap: wrap;
 }
 .imagem{
-width: cover;
+size: cover;
 }
 .texto{
     font-size: 20px;
