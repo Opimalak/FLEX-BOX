@@ -4,18 +4,21 @@
 }
 
 .quadrado1 {
+    border: solid red;
     background-color: gray;
     width: 100px;
     height: 100px;
 }
 
 .quadrado2 {
+    border: solid red;
     background-color: gray;
     width: 100px;
     height: 100px;
 }
 
 .quadrado3 {
+    border: solid red;
     background-color: gray;
     width: 100px;
     height: 100px;
