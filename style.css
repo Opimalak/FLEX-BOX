@@ -1,6 +1,7 @@
 .flex {
     background-color: blueviolet;
     display: flex;
+    justify-content: space-between;
 }
 
 .quadrado1 {
